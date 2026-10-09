@@ -1,0 +1,245 @@
+{
+  "referenceUrl": "https://assets.yfp.am/topics/waste/sentinel/2016-08-25.png",
+  "scenes": {
+    "001-003_S5_133-269-8_2012-06-28-08-04-30_HRG-1_A_DT_56.zip": {
+      "status": "accepted",
+      "shiftEastMeters": 870,
+      "shiftNorthMeters": -350,
+      "distinctness": 4.45,
+      "method": 2,
+      "checkedOn": "2026-10-09"
+    },
+    "001-003_S5_133-269-8_2012-06-28-08-04-30_HRG-1_A_DT_RS.zip": {
+      "status": "no_clear_match",
+      "distinctness": 1.39,
+      "checkedOn": "2026-10-09"
+    },
+    "001-003_S5_133-269-8_2013-06-02-07-32-12_HRG-2_A_MX_TT.zip": {
+      "status": "accepted",
+      "shiftEastMeters": -230,
+      "shiftNorthMeters": 10,
+      "distinctness": 4.02,
+      "method": 2,
+      "checkedOn": "2026-10-09"
+    },
+    "001-003_S5_133-269-8_2013-08-24-07-31-54_HRG-2_A_MX_TT.zip": {
+      "status": "rejected_by_eye",
+      "note": "cloud shadows over the north-west and the south of the frame, across the dump's southern edge",
+      "checkedOn": "2026-10-09"
+    },
+    "001-003_S5_133-269-9_2005-09-23-08-12-50_HRG-2_A_MX_KK.zip": {
+      "status": "accepted",
+      "shiftEastMeters": 750,
+      "shiftNorthMeters": -290,
+      "distinctness": 2.93,
+      "method": 2,
+      "checkedOn": "2026-10-09"
+    },
+    "001-004_S5_133-268-9_2003-08-12-07-42-03_HRG-2_A_MX_KK.zip": {
+      "status": "accepted",
+      "shiftEastMeters": -1480,
+      "shiftNorthMeters": 200,
+      "distinctness": 2.45,
+      "checkedOn": "2026-10-09"
+    },
+    "001-004_S5_133-269-6_2004-06-18-08-00-38_HRG-1_A_MX_KK.zip": {
+      "status": "accepted",
+      "shiftEastMeters": -70,
+      "shiftNorthMeters": -60,
+      "distinctness": 3.19,
+      "method": 2,
+      "checkedOn": "2026-10-09"
+    },
+    "001-004_S5_133-269-6_2004-08-09-08-00-45_HRG-1_A_MX_KK.zip": {
+      "status": "accepted",
+      "shiftEastMeters": -80,
+      "shiftNorthMeters": -60,
+      "distinctness": 3.65,
+      "checkedOn": "2026-10-09"
+    },
+    "001-004_S5_133-269-7_2003-08-11-08-01-29_HRG-1_A_MX_TT.zip": {
+      "status": "accepted",
+      "shiftEastMeters": -120,
+      "shiftNorthMeters": -30,
+      "distinctness": 3.26,
+      "checkedOn": "2026-10-09"
+    },
+    "001-004_S5_133-269-7_2003-09-06-08-01-22_HRG-2_A_MX_TT.zip": {
+      "status": "accepted",
+      "shiftEastMeters": -60,
+      "shiftNorthMeters": -40,
+      "distinctness": 3.59,
+      "method": 2,
+      "checkedOn": "2026-10-09"
+    },
+    "001-004_S5_133-269-9_2012-08-24-08-06-34_HRG-1_A_DT_56.zip": {
+      "status": "no_clear_match",
+      "distinctness": 1.52,
+      "checkedOn": "2026-10-09"
+    },
+    "001-004_S5_133-269-9_2012-08-24-08-06-34_HRG-1_A_DT_RS.zip": {
+      "status": "no_clear_match",
+      "distinctness": 1.52,
+      "checkedOn": "2026-10-09"
+    },
+    "001-005_S5_132-268-9_2011-08-31-08-18-48_HRG-1_A_DT_56.zip": {
+      "status": "accepted",
+      "shiftEastMeters": 1080,
+      "shiftNorthMeters": -410,
+      "distinctness": 3.84,
+      "checkedOn": "2026-10-09"
+    },
+    "001-005_S5_132-268-9_2011-08-31-08-18-48_HRG-1_A_DT_RS.zip": {
+      "status": "no_clear_match",
+      "distinctness": 1.37,
+      "checkedOn": "2026-10-09"
+    },
+    "001-006_S5_133-269-9_2012-07-03-08-08-10_HRG-1_A_DT_56.zip": {
+      "status": "no_clear_match",
+      "distinctness": 1.63,
+      "checkedOn": "2026-10-09"
+    },
+    "001-006_S5_133-269-9_2012-07-03-08-08-10_HRG-1_A_DT_RS.zip": {
+      "status": "no_clear_match",
+      "distinctness": 1.63,
+      "checkedOn": "2026-10-09"
+    },
+    "001-006_S5_134-269-8_2014-08-22-07-28-25_HRG-2_A_DT_56.zip": {
+      "status": "accepted",
+      "shiftEastMeters": 860,
+      "shiftNorthMeters": -300,
+      "distinctness": 3.67,
+      "method": 2,
+      "checkedOn": "2026-10-09"
+    },
+    "001-006_S5_134-269-8_2014-08-22-07-28-25_HRG-2_A_DT_RS.zip": {
+      "status": "no_clear_match",
+      "distinctness": 1.26,
+      "checkedOn": "2026-10-09"
+    },
+    "001-006_S5_134-269-9_2014-08-22-07-28-25_HRG-2_B_MX_RS.zip": {
+      "status": "no_clear_match",
+      "distinctness": 1.29,
+      "checkedOn": "2026-10-09"
+    },
+    "001-008_S5_133-269-8_2011-07-11-08-00-21_HRG-2_A_MX_TT.zip": {
+      "status": "accepted",
+      "shiftEastMeters": 150,
+      "shiftNorthMeters": -90,
+      "distinctness": 4.79,
+      "method": 2,
+      "checkedOn": "2026-10-09"
+    },
+    "001-008_S5_134-269-9_2006-08-12-08-00-57_HRG-2_A_MX_KK.zip": {
+      "status": "accepted",
+      "shiftEastMeters": 120,
+      "shiftNorthMeters": -50,
+      "distinctness": 3.7,
+      "method": 2,
+      "checkedOn": "2026-10-09"
+    },
+    "002-004_S5_133-269-0_2003-08-12-07-42-11_HRG-2_A_MX_KK.zip": {
+      "status": "no_clear_match",
+      "distinctness": 1.13,
+      "checkedOn": "2026-10-09"
+    },
+    "002-005_S5_132-269-0_2011-08-31-08-18-56_HRG-1_A_DT_56.zip": {
+      "status": "no_clear_match",
+      "distinctness": 1.36,
+      "checkedOn": "2026-10-09"
+    },
+    "002-005_S5_132-269-0_2011-08-31-08-18-56_HRG-1_A_DT_RS.zip": {
+      "status": "no_clear_match",
+      "distinctness": 1.36,
+      "checkedOn": "2026-10-09"
+    },
+    "002-006_S5_134-270-0_2014-08-22-07-28-33_HRG-2_A_DT_56.zip": {
+      "status": "accepted",
+      "shiftEastMeters": 840,
+      "shiftNorthMeters": -290,
+      "distinctness": 3.48,
+      "method": 2,
+      "checkedOn": "2026-10-09"
+    },
+    "002-006_S5_134-270-0_2014-08-22-07-28-33_HRG-2_A_DT_RS.zip": {
+      "status": "no_clear_match",
+      "distinctness": 1.24,
+      "checkedOn": "2026-10-09"
+    },
+    "002-006_S5_134-270-0_2014-08-22-07-28-33_HRG-2_B_MX_RS.zip": {
+      "status": "no_clear_match",
+      "distinctness": 1.26,
+      "checkedOn": "2026-10-09"
+    },
+    "003-003_S5_132-269-3_2007-08-01-07-50-25_HRG-2_A_MX_KK.zip": {
+      "status": "accepted",
+      "shiftEastMeters": -160,
+      "shiftNorthMeters": 20,
+      "distinctness": 4.27,
+      "method": 2,
+      "checkedOn": "2026-10-09"
+    },
+    "003-003_S5_132-269-3_2007-08-01-07-50-25_HRG-2_B_MX_KK.zip": {
+      "status": "accepted",
+      "shiftEastMeters": -160,
+      "shiftNorthMeters": 20,
+      "distinctness": 4.24,
+      "method": 2,
+      "checkedOn": "2026-10-09"
+    },
+    "003-004_S5_134-269-0_2007-08-27-07-49-48_HRG-2_A_MX_TT.zip": {
+      "status": "no_clear_match",
+      "distinctness": 1.0,
+      "method": 2,
+      "checkedOn": "2026-10-09"
+    },
+    "003-004_S5_134-269-0_2007-08-27-07-49-48_HRG-2_B_MX_TT.zip": {
+      "status": "no_clear_match",
+      "distinctness": 1.0,
+      "method": 2,
+      "checkedOn": "2026-10-09"
+    },
+    "003-007_S5_133-269-0_2012-06-19-07-37-50_HRG-2_A_DT_RS.zip": {
+      "status": "no_clear_match",
+      "distinctness": 1.44,
+      "method": 2,
+      "checkedOn": "2026-10-09"
+    },
+    "003-007_S5_133-269-0_2012-06-19-07-37-50_HRG-2_B_DT_RS.zip": {
+      "status": "no_clear_match",
+      "distinctness": 1.44,
+      "method": 2,
+      "checkedOn": "2026-10-09"
+    },
+    "004-004_S5_133-269-3_2010-07-12-08-01-47_HRG-2_A_MX_KK.zip": {
+      "status": "accepted",
+      "shiftEastMeters": 150,
+      "shiftNorthMeters": -70,
+      "distinctness": 3.81,
+      "method": 2,
+      "checkedOn": "2026-10-09"
+    },
+    "009-010_S5_133-269-0_2012-06-07-08-08-58_HRG-2_A_DT_RS.zip": {
+      "status": "no_clear_match",
+      "distinctness": 1.33,
+      "checkedOn": "2026-10-09"
+    },
+    "009-010_S5_133-269-0_2012-06-07-08-08-58_HRG-2_B_DT_RS.zip": {
+      "status": "no_clear_match",
+      "distinctness": 1.33,
+      "checkedOn": "2026-10-09"
+    },
+    "010-010_S5_133-269-4_2012-06-07-08-09-06_HRG-2_A_DT_RS.zip": {
+      "status": "accepted",
+      "shiftEastMeters": 1280,
+      "shiftNorthMeters": -500,
+      "distinctness": 3.56,
+      "checkedOn": "2026-10-09"
+    },
+    "010-010_S5_133-269-4_2012-06-07-08-09-06_HRG-2_B_DT_RS.zip": {
+      "status": "no_clear_match",
+      "distinctness": 1.29,
+      "checkedOn": "2026-10-09"
+    }
+  }
+}

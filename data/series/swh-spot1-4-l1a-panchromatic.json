@@ -1,0 +1,324 @@
+{
+  "retrievedOn": "2026-10-09",
+  "collection": "swh-spot1-4-l1a",
+  "product": "panchromatic",
+  "frame": {
+    "bbox": [
+      44.53945805928936,
+      40.099840655300035,
+      44.55732424071064,
+      40.11481984469997
+    ],
+    "widthPx": 153,
+    "heightPx": 167,
+    "metersPerPixel": 10
+  },
+  "outline": {
+    "osmWay": 323683797,
+    "osmVersion": 8,
+    "ring": [
+      [
+        44.5477738,
+        40.110146
+      ],
+      [
+        44.5462182,
+        40.11029
+      ],
+      [
+        44.5451551,
+        40.1094762
+      ],
+      [
+        44.5447147,
+        40.1080526
+      ],
+      [
+        44.5441561,
+        40.1063328
+      ],
+      [
+        44.5442906,
+        40.1053451
+      ],
+      [
+        44.5445506,
+        40.104931
+      ],
+      [
+        44.5446887,
+        40.1043255
+      ],
+      [
+        44.5452856,
+        40.1038954
+      ],
+      [
+        44.5460087,
+        40.1035909
+      ],
+      [
+        44.5472437,
+        40.1034339
+      ],
+      [
+        44.5485052,
+        40.1039594
+      ],
+      [
+        44.5498721,
+        40.1042078
+      ],
+      [
+        44.5499258,
+        40.1046782
+      ],
+      [
+        44.5500385,
+        40.1049335
+      ],
+      [
+        44.5512284,
+        40.1056631
+      ],
+      [
+        44.5515527,
+        40.105866
+      ],
+      [
+        44.5516585,
+        40.1061264
+      ],
+      [
+        44.551657,
+        40.106395
+      ],
+      [
+        44.5515103,
+        40.1067635
+      ],
+      [
+        44.55121,
+        40.1069894
+      ],
+      [
+        44.5507846,
+        40.107003
+      ],
+      [
+        44.5505221,
+        40.1070246
+      ],
+      [
+        44.5502279,
+        40.1071868
+      ],
+      [
+        44.5502222,
+        40.1074446
+      ],
+      [
+        44.5506477,
+        40.107523
+      ],
+      [
+        44.551195,
+        40.1075197
+      ],
+      [
+        44.5523043,
+        40.1080702
+      ],
+      [
+        44.5526176,
+        40.1084058
+      ],
+      [
+        44.5526262,
+        40.1087069
+      ],
+      [
+        44.5520287,
+        40.109525
+      ],
+      [
+        44.5516679,
+        40.1102115
+      ],
+      [
+        44.5510916,
+        40.1112266
+      ],
+      [
+        44.5502104,
+        40.110963
+      ],
+      [
+        44.5501056,
+        40.1104574
+      ],
+      [
+        44.5498467,
+        40.1100762
+      ],
+      [
+        44.5493322,
+        40.109829
+      ],
+      [
+        44.5489992,
+        40.1099295
+      ],
+      [
+        44.5486109,
+        40.1101002
+      ],
+      [
+        44.5477738,
+        40.110146
+      ]
+    ]
+  },
+  "scenes": [
+    {
+      "year": 1986,
+      "acquiredOn": "1986-08-06",
+      "sceneId": "002-004_S1_133-269-0_1986-08-06-08-04-04_HRV-1_P_E2_TT",
+      "cloudCoverPercent": 8,
+      "url": "https://assets.yfp.am/topics/waste/spot1-4/1986-08-06.png",
+      "registration": {
+        "incidenceAngleDeg": 3.9,
+        "shiftEastMeters": 260,
+        "shiftNorthMeters": 260,
+        "distinctness": 2.44,
+        "referenceUrl": "https://assets.yfp.am/topics/waste/sentinel/2016-08-25.png"
+      }
+    },
+    {
+      "year": 1989,
+      "acquiredOn": "1989-07-28",
+      "sceneId": "004-006_S1_133-269-0_1989-07-28-07-59-34_HRV-2_P_E2_TT",
+      "cloudCoverPercent": 19,
+      "url": "https://assets.yfp.am/topics/waste/spot1-4/1989-07-28.png",
+      "registration": {
+        "incidenceAngleDeg": -0.7,
+        "shiftEastMeters": -100,
+        "shiftNorthMeters": 300,
+        "distinctness": 2.58,
+        "referenceUrl": "https://assets.yfp.am/topics/waste/sentinel/2016-08-25.png"
+      }
+    },
+    {
+      "year": 1990,
+      "acquiredOn": "1990-09-04",
+      "sceneId": "004-007_S2_133-269-0_1990-09-04-08-00-26_HRV-2_P_E2_TT",
+      "cloudCoverPercent": 5,
+      "url": "https://assets.yfp.am/topics/waste/spot1-4/1990-09-04.png",
+      "registration": {
+        "incidenceAngleDeg": -1.9,
+        "shiftEastMeters": -260,
+        "shiftNorthMeters": 40,
+        "distinctness": 2.97,
+        "referenceUrl": "https://assets.yfp.am/topics/waste/sentinel/2016-08-25.png"
+      }
+    },
+    {
+      "year": 1991,
+      "acquiredOn": "1991-09-29",
+      "sceneId": "002-015_S2_133-269-0_1991-09-29-08-00-51_HRV-1_P_E1_TT",
+      "cloudCoverPercent": 1,
+      "url": "https://assets.yfp.am/topics/waste/spot1-4/1991-09-29.png",
+      "registration": {
+        "incidenceAngleDeg": -1.6,
+        "shiftEastMeters": -280,
+        "shiftNorthMeters": -50,
+        "distinctness": 3.15,
+        "referenceUrl": "https://assets.yfp.am/topics/waste/sentinel/2016-08-25.png"
+      }
+    },
+    {
+      "year": 1992,
+      "acquiredOn": "1992-09-06",
+      "sceneId": "002-012_S2_133-269-0_1992-09-06-08-05-37_HRV-2_P_E1_KK",
+      "cloudCoverPercent": 0,
+      "url": "https://assets.yfp.am/topics/waste/spot1-4/1992-09-06.png",
+      "registration": {
+        "incidenceAngleDeg": 4.3,
+        "shiftEastMeters": 50,
+        "shiftNorthMeters": -70,
+        "distinctness": 3.38,
+        "referenceUrl": "https://assets.yfp.am/topics/waste/sentinel/2016-08-25.png"
+      }
+    },
+    {
+      "year": 1994,
+      "acquiredOn": "1994-08-17",
+      "sceneId": "004-004_S3_132-269-5_1994-08-17-08-07-31_HRV-2_P_E2_TT",
+      "cloudCoverPercent": 8,
+      "url": "https://assets.yfp.am/topics/waste/spot1-4/1994-08-17.png",
+      "registration": {
+        "incidenceAngleDeg": 8.3,
+        "shiftEastMeters": 690,
+        "shiftNorthMeters": 100,
+        "distinctness": 2.85,
+        "referenceUrl": "https://assets.yfp.am/topics/waste/sentinel/2016-08-25.png"
+      }
+    },
+    {
+      "year": 1997,
+      "acquiredOn": "1997-08-26",
+      "sceneId": "006-007_S2_133-269-0_1997-08-26-07-59-56_HRV-1_P_DT_BB",
+      "cloudCoverPercent": 0,
+      "url": "https://assets.yfp.am/topics/waste/spot1-4/1997-08-26.png",
+      "registration": {
+        "incidenceAngleDeg": -2.9,
+        "shiftEastMeters": -300,
+        "shiftNorthMeters": -280,
+        "distinctness": 3.56,
+        "referenceUrl": "https://assets.yfp.am/topics/waste/sentinel/2016-08-25.png"
+      }
+    },
+    {
+      "year": 1999,
+      "acquiredOn": "1999-07-02",
+      "sceneId": "006-010_S4_133-269-0_1999-07-02-07-51-32_HRVIR-2_M_MX_KK",
+      "cloudCoverPercent": 11,
+      "url": "https://assets.yfp.am/topics/waste/spot1-4/1999-07-02.png",
+      "registration": {
+        "incidenceAngleDeg": -14.1,
+        "shiftEastMeters": -260,
+        "shiftNorthMeters": 60,
+        "distinctness": 2.46,
+        "referenceUrl": "https://assets.yfp.am/topics/waste/sentinel/2016-08-25.png"
+      }
+    },
+    {
+      "year": 2000,
+      "acquiredOn": "2000-07-26",
+      "sceneId": "004-008_S4_133-269-0_2000-07-26-07-52-49_HRVIR-1_M_E1_KK",
+      "cloudCoverPercent": 1,
+      "url": "https://assets.yfp.am/topics/waste/spot1-4/2000-07-26.png",
+      "registration": {
+        "incidenceAngleDeg": -14.5,
+        "shiftEastMeters": -360,
+        "shiftNorthMeters": -20,
+        "distinctness": 2.62,
+        "referenceUrl": "https://assets.yfp.am/topics/waste/sentinel/2016-08-25.png"
+      }
+    },
+    {
+      "year": 2002,
+      "acquiredOn": "2002-08-19",
+      "sceneId": "003-003_S4_133-269-0_2002-08-19-07-51-20_HRVIR-1_M_MX_TT",
+      "cloudCoverPercent": 2,
+      "url": "https://assets.yfp.am/topics/waste/spot1-4/2002-08-19.png",
+      "registration": {
+        "incidenceAngleDeg": -15.2,
+        "shiftEastMeters": -380,
+        "shiftNorthMeters": 80,
+        "distinctness": 2.86,
+        "referenceUrl": "https://assets.yfp.am/topics/waste/sentinel/2016-08-25.png"
+      }
+    }
+  ]
+}

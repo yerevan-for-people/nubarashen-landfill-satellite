@@ -1,0 +1,4 @@
+# Downloaded SPOT scenes are large and come from the archive, not from here.
+cache/
+__pycache__/
+.DS_Store

@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Nubarashen landfill from orbit: traced area, 1986-2026"
+abstract: >-
+  The area of the Nubarashen landfill in Yerevan, Armenia, outlined by an AI model on
+  31 cloud-free summer satellite frames from SPOT 1-5 and
+  Sentinel-2, with every frame, the alignment of each scene, the exact
+  rendering requests and the code that reproduces the areas.
+authors:
+  - given-names: "Alex"
+    family-names: "Kraiz"
+    affiliation: "Yerevan for People"
+  - name: "Yerevan for People"
+    website: "https://yfp.am"
+    email: "support@yfp.am"
+version: "1.0.0"
+date-released: "2026-10-09"
+url: "https://yfp.am/en/topics/waste"
+repository-code: "https://github.com/yerevan-for-people/nubarashen-landfill-satellite"
+license:
+  - CC-BY-4.0
+  - MIT
+keywords:
+  - landfill
+  - remote sensing
+  - SPOT
+  - Sentinel-2
+  - Yerevan
+  - Armenia
+  - waste

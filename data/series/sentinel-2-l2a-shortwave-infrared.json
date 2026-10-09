@@ -1,0 +1,261 @@
+{
+  "retrievedOn": "2026-10-09",
+  "collection": "sentinel-2-l2a",
+  "product": "shortwaveInfrared",
+  "frame": {
+    "bbox": [
+      44.53945805928936,
+      40.099840655300035,
+      44.55732424071064,
+      40.11481984469997
+    ],
+    "widthPx": 153,
+    "heightPx": 167,
+    "metersPerPixel": 10
+  },
+  "outline": {
+    "osmWay": 323683797,
+    "osmVersion": 8,
+    "ring": [
+      [
+        44.5477738,
+        40.110146
+      ],
+      [
+        44.5462182,
+        40.11029
+      ],
+      [
+        44.5451551,
+        40.1094762
+      ],
+      [
+        44.5447147,
+        40.1080526
+      ],
+      [
+        44.5441561,
+        40.1063328
+      ],
+      [
+        44.5442906,
+        40.1053451
+      ],
+      [
+        44.5445506,
+        40.104931
+      ],
+      [
+        44.5446887,
+        40.1043255
+      ],
+      [
+        44.5452856,
+        40.1038954
+      ],
+      [
+        44.5460087,
+        40.1035909
+      ],
+      [
+        44.5472437,
+        40.1034339
+      ],
+      [
+        44.5485052,
+        40.1039594
+      ],
+      [
+        44.5498721,
+        40.1042078
+      ],
+      [
+        44.5499258,
+        40.1046782
+      ],
+      [
+        44.5500385,
+        40.1049335
+      ],
+      [
+        44.5512284,
+        40.1056631
+      ],
+      [
+        44.5515527,
+        40.105866
+      ],
+      [
+        44.5516585,
+        40.1061264
+      ],
+      [
+        44.551657,
+        40.106395
+      ],
+      [
+        44.5515103,
+        40.1067635
+      ],
+      [
+        44.55121,
+        40.1069894
+      ],
+      [
+        44.5507846,
+        40.107003
+      ],
+      [
+        44.5505221,
+        40.1070246
+      ],
+      [
+        44.5502279,
+        40.1071868
+      ],
+      [
+        44.5502222,
+        40.1074446
+      ],
+      [
+        44.5506477,
+        40.107523
+      ],
+      [
+        44.551195,
+        40.1075197
+      ],
+      [
+        44.5523043,
+        40.1080702
+      ],
+      [
+        44.5526176,
+        40.1084058
+      ],
+      [
+        44.5526262,
+        40.1087069
+      ],
+      [
+        44.5520287,
+        40.109525
+      ],
+      [
+        44.5516679,
+        40.1102115
+      ],
+      [
+        44.5510916,
+        40.1112266
+      ],
+      [
+        44.5502104,
+        40.110963
+      ],
+      [
+        44.5501056,
+        40.1104574
+      ],
+      [
+        44.5498467,
+        40.1100762
+      ],
+      [
+        44.5493322,
+        40.109829
+      ],
+      [
+        44.5489992,
+        40.1099295
+      ],
+      [
+        44.5486109,
+        40.1101002
+      ],
+      [
+        44.5477738,
+        40.110146
+      ]
+    ]
+  },
+  "scenes": [
+    {
+      "year": 2016,
+      "acquiredOn": "2016-08-25",
+      "sceneId": "S2A_MSIL2A_20160825T074612_N0500_R135_T38TMK_20231027T004228.SAFE",
+      "cloudCoverPercent": 0.62,
+      "url": "https://assets.yfp.am/topics/waste/sentinel-swir/2016-08-25.png"
+    },
+    {
+      "year": 2017,
+      "acquiredOn": "2017-09-09",
+      "sceneId": "S2A_MSIL2A_20170909T074941_N0500_R135_T38TMK_20230928T094355.SAFE",
+      "cloudCoverPercent": 0,
+      "url": "https://assets.yfp.am/topics/waste/sentinel-swir/2017-09-09.png"
+    },
+    {
+      "year": 2018,
+      "acquiredOn": "2018-09-14",
+      "sceneId": "S2A_MSIL2A_20180914T074611_N0500_R135_T38TMK_20230803T184956.SAFE",
+      "cloudCoverPercent": 0.03,
+      "url": "https://assets.yfp.am/topics/waste/sentinel-swir/2018-09-14.png"
+    },
+    {
+      "year": 2019,
+      "acquiredOn": "2019-09-24",
+      "sceneId": "S2B_MSIL2A_20190924T074639_N0500_R135_T38TMK_20230702T054357.SAFE",
+      "cloudCoverPercent": 0.01,
+      "url": "https://assets.yfp.am/topics/waste/sentinel-swir/2019-09-24.png"
+    },
+    {
+      "year": 2020,
+      "acquiredOn": "2020-09-18",
+      "sceneId": "S2B_MSIL2A_20200918T074619_N0500_R135_T38TMK_20230417T083536.SAFE",
+      "cloudCoverPercent": 0.45,
+      "url": "https://assets.yfp.am/topics/waste/sentinel-swir/2020-09-18.png"
+    },
+    {
+      "year": 2021,
+      "acquiredOn": "2021-09-28",
+      "sceneId": "S2A_MSIL2A_20210928T074711_N0500_R135_T38TMK_20230125T201443.SAFE",
+      "cloudCoverPercent": 0.93,
+      "url": "https://assets.yfp.am/topics/waste/sentinel-swir/2021-09-28.png"
+    },
+    {
+      "year": 2022,
+      "acquiredOn": "2022-09-28",
+      "sceneId": "S2B_MSIL2A_20220928T074709_N0510_R135_T38TMK_20240730T204143.SAFE",
+      "cloudCoverPercent": 0,
+      "url": "https://assets.yfp.am/topics/waste/sentinel-swir/2022-09-28.png"
+    },
+    {
+      "year": 2023,
+      "acquiredOn": "2023-08-14",
+      "sceneId": "S2B_MSIL2A_20230814T074619_N0510_R135_T38TMK_20241027T205802.SAFE",
+      "cloudCoverPercent": 0.05,
+      "url": "https://assets.yfp.am/topics/waste/sentinel-swir/2023-08-14.png"
+    },
+    {
+      "year": 2024,
+      "acquiredOn": "2024-09-02",
+      "sceneId": "S2A_MSIL2A_20240902T074611_N0511_R135_T38TMK_20240902T131750.SAFE",
+      "cloudCoverPercent": 0,
+      "url": "https://assets.yfp.am/topics/waste/sentinel-swir/2024-09-02.png"
+    },
+    {
+      "year": 2025,
+      "acquiredOn": "2025-08-18",
+      "sceneId": "S2C_MSIL2A_20250818T074631_N0511_R135_T38TMK_20250818T112323.SAFE",
+      "cloudCoverPercent": 0.01,
+      "url": "https://assets.yfp.am/topics/waste/sentinel-swir/2025-08-18.png"
+    },
+    {
+      "year": 2026,
+      "acquiredOn": "2026-08-23",
+      "sceneId": "S2C_MSIL2A_20260823T074611_N0512_R135_T38TMK_20260823T105002.SAFE",
+      "cloudCoverPercent": 0,
+      "url": "https://assets.yfp.am/topics/waste/sentinel-swir/2026-08-23.png"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "referenceUrl": "https://assets.yfp.am/topics/waste/sentinel/2016-08-25.png",
+  "scenes": {
+    "002-004_S1_133-269-0_1986-08-06-08-04-04_HRV-1_P_E2_TT.zip": {
+      "status": "accepted",
+      "shiftEastMeters": 260,
+      "shiftNorthMeters": 260,
+      "distinctness": 2.44,
+      "method": 2,
+      "checkedOn": "2026-10-09"
+    },
+    "002-012_S2_133-269-0_1992-09-06-08-05-37_HRV-2_P_E1_KK.zip": {
+      "status": "accepted",
+      "shiftEastMeters": 50,
+      "shiftNorthMeters": -70,
+      "distinctness": 3.38,
+      "method": 2,
+      "checkedOn": "2026-10-09"
+    },
+    "002-015_S2_133-269-0_1991-09-29-08-00-51_HRV-1_P_E1_TT.zip": {
+      "status": "accepted",
+      "shiftEastMeters": -280,
+      "shiftNorthMeters": -50,
+      "distinctness": 3.15,
+      "method": 2,
+      "checkedOn": "2026-10-09"
+    },
+    "003-003_S4_133-269-0_2002-08-19-07-51-20_HRVIR-1_M_MX_TT.zip": {
+      "status": "accepted",
+      "shiftEastMeters": -380,
+      "shiftNorthMeters": 80,
+      "distinctness": 2.86,
+      "method": 2,
+      "checkedOn": "2026-10-09"
+    },
+    "003-004_S3_132-269-0_1994-08-17-08-07-23_HRV-2_P_E2_TT.zip": {
+      "status": "accepted",
+      "shiftEastMeters": 690,
+      "shiftNorthMeters": 100,
+      "distinctness": 2.93,
+      "method": 2,
+      "checkedOn": "2026-10-09"
+    },
+    "004-004_S3_132-269-5_1994-08-17-08-07-31_HRV-2_P_E2_TT.zip": {
+      "status": "accepted",
+      "shiftEastMeters": 690,
+      "shiftNorthMeters": 100,
+      "distinctness": 2.85,
+      "method": 2,
+      "checkedOn": "2026-10-09"
+    },
+    "004-006_S1_133-269-0_1989-07-28-07-59-34_HRV-2_P_E2_TT.zip": {
+      "status": "accepted",
+      "shiftEastMeters": -100,
+      "shiftNorthMeters": 300,
+      "distinctness": 2.58,
+      "method": 2,
+      "checkedOn": "2026-10-09"
+    },
+    "004-007_S2_133-269-0_1990-09-04-08-00-26_HRV-2_P_E2_TT.zip": {
+      "status": "accepted",
+      "shiftEastMeters": -260,
+      "shiftNorthMeters": 40,
+      "distinctness": 2.97,
+      "method": 2,
+      "checkedOn": "2026-10-09"
+    },
+    "004-008_S4_133-269-0_2000-07-26-07-52-49_HRVIR-1_M_E1_KK.zip": {
+      "status": "accepted",
+      "shiftEastMeters": -360,
+      "shiftNorthMeters": -20,
+      "distinctness": 2.62,
+      "method": 2,
+      "checkedOn": "2026-10-09"
+    },
+    "006-007_S2_133-269-0_1997-08-26-07-59-56_HRV-1_P_DT_BB.zip": {
+      "status": "accepted",
+      "shiftEastMeters": -300,
+      "shiftNorthMeters": -280,
+      "distinctness": 3.56,
+      "method": 2,
+      "checkedOn": "2026-10-09"
+    },
+    "006-010_S4_133-269-0_1999-07-02-07-51-32_HRVIR-2_M_MX_KK.zip": {
+      "status": "accepted",
+      "shiftEastMeters": -260,
+      "shiftNorthMeters": 60,
+      "distinctness": 2.46,
+      "method": 2,
+      "checkedOn": "2026-10-09"
+    },
+    "007-007_S2_133-269-2_1997-08-26-08-00-04_HRV-1_P_DT_BB.zip": {
+      "status": "accepted",
+      "shiftEastMeters": -300,
+      "shiftNorthMeters": -280,
+      "distinctness": 3.53,
+      "method": 2,
+      "checkedOn": "2026-10-09"
+    }
+  }
+}
